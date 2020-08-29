@@ -1,6 +1,6 @@
 {
 "show_banner": true, 
-"show_interstitial": true,
-"interstitial_threshold": 2,
+"show_interstitial": false,
+"interstitial_threshold": 5,
 "honor": false
 }
